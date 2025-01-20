@@ -1,5 +1,5 @@
 import './App.css';
-import UserLogin from './Components/User/UserLogin';
+// import UserLogin from './Components/User/UserLogin';
 import { BrowserRouter, Routes, Route } from 'react-router-dom'
 import UserHome from './Components/User/UserPages/UserHome/UserHome';
 import SellFirstPage from './Components/User/UserPages/SellPages/FirstPage';
