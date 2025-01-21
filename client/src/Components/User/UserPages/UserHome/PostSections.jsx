@@ -2,11 +2,11 @@ import React from 'react'
 
 function PostSections() {
     return (
-        <div className='mt-8 mb-32'>
+        <div className='mt-8 mb-7'>
             <div>
                 <h1 className='text-black text-2xl ml-2'>Fresh Recommendations</h1>
             </div>
-            <div className='grid grid-cols-2 gap-1 gap-y-4 p-1 mt-6'>
+            <div className='grid grid-cols-2 gap-1 gap-y-4 p-1 mt-6 mb-16'>
                 <div className="card bg-base-100 w-[12.5rem] shadow-xl">
                     <figure>
                         <img
