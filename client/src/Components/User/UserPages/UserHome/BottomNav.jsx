@@ -18,7 +18,7 @@ function BottomNav() {
                     <VscAccount size={40} className='cursor-pointer' />
                 </div>
             </div>
-            <p className='rounded-full font-bold fixed left-[10.5rem] top-[49.5rem] bottom-0 w-[6rem] h-[6rem] text-black text-6xl text-center bg-white border-8 border-l-green-500 border-t-red-600 border-r-yellow-300 border-b-blue-600 p-1 cursor-pointer'
+            <p className='rounded-full font-bold fixed left-[10.5rem] top-[49.5rem] bottom-[8rem] w-[6rem] h-[6rem] text-black text-6xl text-center bg-white border-8 border-l-green-500 border-t-red-600 border-r-yellow-300 border-b-blue-600 p-1 cursor-pointer'
                         onClick={() => { navigate('/sellfirst') }}
                     >+</p>
         </div>
